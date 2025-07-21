@@ -3,6 +3,10 @@ A curated list of awesome lane topology reasoning methods (continually updated).
 
 ## Paper
 ### 2025
+[2025.07] Enhancing Lane Perception and Topology Understanding Using SD and Satellite Maps, **ICIC 2025**. [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_25)] [Code]
+
+[2025.07] SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions. [[Paper](https://arxiv.org/pdf/2507.04822)] [Code]
+
 [2025.07] Score: Coherent Online Road Topology Estimation and Reasoning with Standard-Definition Maps. [[Paper](https://arxiv.org/pdf/2507.01397)] [Code]
 
 [2025.06] RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning. [[Paper](https://arxiv.org/pdf/2506.13553)] [Code]
