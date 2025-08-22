@@ -3,6 +3,8 @@ A curated list of awesome lane topology reasoning methods (continually updated).
 
 ## Paper
 ### 2025
+[2025.08] RATopo: Improving Lane Topology Reasoning via Redundancy Assignment, **ACM MM 2025**. [[Paper](https://arxiv.org/pdf/2508.15272)] [[Code](https://github.com/homothetic/RATopo)]
+
 [2025.08] FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models. [[Paper](https://arxiv.org/pdf/2507.23325)] [[Code](https://github.com/YimingYang23/FASTopoWM)]
 
 [2025.07] Reusing Attention for One-stage Lane Topology Understanding, **IROS 2025**. [[Paper](https://arxiv.org/pdf/2507.17617)] [[Code](https://github.com/Yang-Li-2000/Reusing-Attention-for-One-Stage-Lane-Topology-Understanding)]
