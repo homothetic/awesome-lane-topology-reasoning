@@ -3,6 +3,8 @@ A curated list of awesome lane topology reasoning methods (continually updated).
 
 ## Paper
 ### 2025
+[2025.11] LaneDiffusion: Improving Centerline Graph Learning via Prior Injected BEV Feature Generation. [[Paper](https://arxiv.org/pdf/2511.06272)] [Code]
+
 [2025.08] RATopo: Improving Lane Topology Reasoning via Redundancy Assignment, **ACM MM 2025**. [[Paper](https://arxiv.org/pdf/2508.15272)] [[Code](https://github.com/homothetic/RATopo)]
 
 [2025.08] FASTopoWM: Fast-Slow Lane Segment Topology Reasoning with Latent World Models. [[Paper](https://arxiv.org/pdf/2507.23325)] [[Code](https://github.com/YimingYang23/FASTopoWM)]
