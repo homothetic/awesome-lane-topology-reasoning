@@ -3,6 +3,10 @@ A curated list of awesome lane topology reasoning methods (continually updated).
 
 ## Paper
 ### 2025
+[2025.11] TLSD: Breaking the Limit of Topological Lane Mapping with Graph Knowledge and Distance Awareness, **ACML 2025**. [[Paper](https://openreview.net/pdf?id=8qE8wkuLz8)] [Code]
+
+[2025.11] Fine-Grained Representation for Lane Topology Reasoning, **AAAI 2025**. [[Paper](https://arxiv.org/pdf/2511.12590)] [[Code](https://github.com/GXmmm18/TopoFG)]
+
 [2025.11] LaneDiffusion: Improving Centerline Graph Learning via Prior Injected BEV Feature Generation. [[Paper](https://arxiv.org/pdf/2511.06272)] [Code]
 
 [2025.08] RATopo: Improving Lane Topology Reasoning via Redundancy Assignment, **ACM MM 2025**. [[Paper](https://arxiv.org/pdf/2508.15272)] [[Code](https://github.com/homothetic/RATopo)]
@@ -13,30 +17,30 @@ A curated list of awesome lane topology reasoning methods (continually updated).
 
 [2025.07] Enhancing Lane Perception and Topology Understanding Using SD and Satellite Maps, **ICIC 2025**. [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-9794-6_25)] [Code]
 
-[2025.07] SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions. [[Paper](https://arxiv.org/pdf/2507.04822)] [Code]
+[2025.07] SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansions, **ICCV 2025**. [[Paper](https://arxiv.org/pdf/2507.04822)] [[Code](https://github.com/MIV-XJTU/SeqGrowGraph)]
 
-[2025.07] Score: Coherent Online Road Topology Estimation and Reasoning with Standard-Definition Maps. [[Paper](https://arxiv.org/pdf/2507.01397)] [Code]
+[2025.07] Score: Coherent Online Road Topology Estimation and Reasoning with Standard-Definition Maps, **IROS 2025**. [[Paper](https://arxiv.org/pdf/2507.01397)] [Code]
 
 [2025.06] RelTopo: Enhancing Relational Modeling for Driving Scene Topology Reasoning. [[Paper](https://arxiv.org/pdf/2506.13553)] [Code]
 
-[2025.05] TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving. [[Paper](https://arxiv.org/pdf/2505.17771)] [[Code](https://github.com/Franpin/TopoPoint)]
+[2025.05] TopoPoint: Enhance Topology Reasoning via Endpoint Detection in Autonomous Driving, **NeurIPS 2025**. [[Paper](https://arxiv.org/pdf/2505.17771)] [[Code](https://github.com/Franpin/TopoPoint)]
 
 [2025.05] SEPT: Standard-Definition Map Enhanced Scene Perception and Topology Reasoning for Autonomous Driving, **RAL**. [[Paper](https://arxiv.org/pdf/2505.12246)] [Code]
 
-[2025.04] A Concise Survey on Lane Topology Reasoning for HD Mapping. [[Paper](https://arxiv.org/pdf/2504.01989)] [Code]
+[2025.04] A Concise Survey on Lane Topology Reasoning for HD Mapping, **IEEE IV 2025**. [[Paper](https://arxiv.org/pdf/2504.01989)] [Code]
 
 [2025.03] Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction, **ICRA 2025**. [[Paper](https://arxiv.org/pdf/2503.07485)] [[Code](https://github.com/XR-Lee/neural-symbolic)]
 
 [2025.02] SMART: Advancing Scalable Map Priors for Driving Topology Reasoning, **ICRA 2025**. [[Paper](https://arxiv.org/pdf/2502.04329)] [Code]
 
-[2025.02] Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning. [[Paper](https://arxiv.org/pdf/2502.08974)] [Code]
+[2025.02] Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning, **AAAI 2025**. [[Paper](https://arxiv.org/pdf/2502.08974)] [Code]
 
 ### 2024
 [2024.12] TopoBDA: Towards Bezier Deformable Attention for Road Topology Understanding. [[Paper](https://arxiv.org/pdf/2412.18951)] [Code]
 
 [2024.11] T2SG: Traffic Topology Scene Graph for Topology Reasoning in Autonomous Driving, **CVPR 2025**. [[Paper](https://arxiv.org/pdf/2411.18894)] [[Code](https://github.com/MICLAB-BUPT/T2SG)]
 
-[2024.11] TrajTopo: Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors. [[Paper](https://arxiv.org/pdf/2411.17161)] [[Code](https://github.com/wowlza/TrajTopo)]
+[2024.11] TrajTopo: Enhancing Lane Segment Perception and Topology Reasoning with Crowdsourcing Trajectory Priors, **RAL**. [[Paper](https://arxiv.org/pdf/2411.17161)] [[Code](https://github.com/wowlza/TrajTopo)]
 
 [2024.11] TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior. [[Paper](https://arxiv.org/pdf/2411.14751)] [Code]
 
@@ -44,7 +48,7 @@ A curated list of awesome lane topology reasoning methods (continually updated).
 
 [2024.10] TSTGT: Driving Scene Understanding with Traffic Scene-Assisted Topology Graph Transformer, **ACM MM 2024**. [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681483)] [Code]
 
-[2024.09] TopoMaskV2: Enhanced Instance-Mask-Based Formulation for the Road Topology Problem. [[Paper](https://arxiv.org/pdf/2409.11325)] [Code]
+[2024.09] TopoMaskV2: Enhanced Instance-Mask-Based Formulation for the Road Topology Problem, **ECCV 2024 Workshop**. [[Paper](https://arxiv.org/pdf/2409.11325)] [Code]
 
 [2024.07] CGNet: Continuity Preserving Online CenterLine Graph Learning, **ECCV 2024**. [[Paper](https://arxiv.org/pdf/2407.11337)] [[Code](https://github.com/XiaoMi/CGNet)]
 
