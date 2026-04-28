@@ -2,6 +2,11 @@
 A curated list of awesome lane topology reasoning methods (continually updated).
 
 ## Paper
+### 2026
+[2026.04] TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations, **CVPR 2026**. [[Paper](https://arxiv.org/pdf/2604.24119)] [[Code](https://github.com/Yifeng-Bai/TopoHR)]
+
+[2026.03] GeoReFormer: Geometry-Aware Refinement for Lane Segment Detection and Topology Reasoning. [[Paper](https://arxiv.org/pdf/2603.26018)] [Code]
+
 ### 2025
 [2025.11] TLSD: Breaking the Limit of Topological Lane Mapping with Graph Knowledge and Distance Awareness, **ACML 2025**. [[Paper](https://openreview.net/pdf?id=8qE8wkuLz8)] [Code]
 
