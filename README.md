@@ -3,6 +3,8 @@ A curated list of awesome lane topology reasoning methods (continually updated).
 
 ## Paper
 ### 2026
+[2026.07] Generative Lane Topology Reasoning via Autoregressive Model with Geometry Prior, **ECCV**. [[Paper](https://arxiv.org/pdf/2606.31814)] [[Code](https://github.com/buaa-colalab/TopoGPT)]
+
 [2026.05] Unified Modeling of Lane and Lane Topology for Driving Scene Reasoning, **IEEE TCSVT**. [[Paper](https://ieeexplore.ieee.org/document/11506407)] [[Code](https://github.com/homothetic/UniTopo)]
 
 [2026.04] TopoHR: Hierarchical Centerline Representation for Cyclic Topology Reasoning in Driving Scenes with Point-to-Instance Relations, **CVPR 2026**. [[Paper](https://arxiv.org/pdf/2604.24119)] [[Code](https://github.com/Yifeng-Bai/TopoHR)]
